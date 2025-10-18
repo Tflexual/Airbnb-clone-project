@@ -1,6 +1,11 @@
 PROJECT OVERVIEW 
 
-The Airbnb Clone Project is an end-to-end, real-world development experience aimed at recreating the core features of a modern booking platform similar to Airbnb. It provides hands-on exposure to full-stack development, emphasizing backend architecture, database structuring, API creation, and security best practices. Through this project, learners gain practical insight into designing scalable applications, managing complex workflows, and collaborating effectively within a development team.
+The Airbnb Clone Project is an end-to-end, real-world development experience aimed at recreating the core features of a modern booking platform similar to Airbnb. It provides hands-on exposure to full-stack development, emphasizing backend architecture, database structuring, API creation, and security best practices. 
+
+GOAL 
+
+Through this project, learners gain practical insight into designing scalable applications, managing complex workflows, and collaborating effectively within a development team.
+
 
 
 A. TEAM ROLES
@@ -118,8 +123,8 @@ Objective: Deepen your understanding of the project’s technology stack.
   * Figma / Adobe XD : Design tools for creating wireframes, mockups, and UI prototypes to guide frontend implementation.
     
   * Sentry / LogRocket (Monitoring Tools) :	Used for error tracking, performance monitoring, and debugging issues in real-time after deployment.
-  * 
-  * pytest / Selenium / Postman	Testing frameworks and tools for verifying backend APIs, frontend interfaces, and ensuring functionality meets requirements.
+    
+  * pytest / Selenium / Postman	Testing frameworks :  and tools for verifying backend APIs, frontend interfaces, and ensuring functionality meets requirements.
 
 
 C. DATABASE DESIGN 
