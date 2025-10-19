@@ -93,7 +93,7 @@ Objective: Understand the various roles within the project team.
   * Ensures compliance with privacy laws and data protection standards.
 
 
-B. TECHNOLOGY STACK 
+B. Technology Stack
 
 Objective: Deepen your understanding of the project’s technology stack.
 
@@ -127,7 +127,7 @@ Objective: Deepen your understanding of the project’s technology stack.
   * pytest / Selenium / Postman	Testing frameworks :  and tools for verifying backend APIs, frontend interfaces, and ensuring functionality meets requirements.
 
 
-C. DATABASE DESIGN 
+C. Database Design
 
 Objective: Understand how the database will be structured.
 
@@ -283,7 +283,7 @@ Objective: Understand how the database will be structured.
 
 
 
-D. FEATURE BREAKDOWN 
+D. Feature Breakdown
 
 Objective: Detail the features of the Airbnb Clone project.
 
@@ -330,7 +330,7 @@ Objective: Detail the features of the Airbnb Clone project.
   
 
 
-E. API SECURITY 
+E. API Security 
 
 Objective: Understand the importance of securing the backend APIs.
 
@@ -426,7 +426,7 @@ Objective: Understand the importance of securing the backend APIs.
   Builds user trust, ensures transparency, and reduces legal risks.
 
 
-F. CI/CD PIPELINE
+F. CI/CD Pipeline
 
 Objective: Understand how CI/CD pipelines contribute to the development process.
 
