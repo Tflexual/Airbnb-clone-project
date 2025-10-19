@@ -8,7 +8,7 @@ Through this project, learners gain practical insight into designing scalable ap
 
 
 
-A. TEAM ROLES AND RESPONSIBILITIES
+A. Team Roles
 
 Objective: Understand the various roles within the project team.
 
